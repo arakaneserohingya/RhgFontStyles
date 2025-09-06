@@ -1,33 +1,29 @@
 {
-"status":true,
-"version":"1",
+  "status": true,
+  "version": "1",
+  "appId": "346064623999716",
+  "PropertyID": "1318348621984074",
+  "banner": "346064623999716_346066057332906",
+  "interstial": "346064623999716_346066213999557",
 
-"appId":"346064623999716",
-"PropertyID":"1318348621984074",
-"banner":"346064623999716_346066057332906",
-"interstial":"346064623999716_346066213999557",
+  "url1": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Notoleka-picsay.png",
+  "url2": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Omari%20leka-picsay.png",
+  "url3": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Gunwanya-picsay.png",
+  "url4": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Kuna%20leka-picsay.png",
+  "url5": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Kufi%20Kuna-picsay.png",
+  "url6": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Qutubi%20Kuna-picsay.png",
+  "url7": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Foyazi%20Kuna%20Marble-picsay.png",
+  "url8": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/kunahara.png",
 
+  "videothumboppo": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/toppothumb.png",
+  "videothumbvivo1": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tvtumone.png",
+  "videothumbvivo2": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tvtumtwo.png",
+  "videothumbxiaomi1": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/txiaomi_m1.png",
+  "videothumbxiaomi2": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/txiaomi_m2.png",
+  "videothumbhuawei": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/thuatuto.png",
+  "videothumbsamsung": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tsamtu.png",
 
-     "url1" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Notoleka-picsay.png",
-     "url2" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Omari%20leka-picsay.png",
-     "url3" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Gunwanya-picsay.png",
-     "url4" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Kuna%20leka-picsay.png",
-     "url5" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Kufi%20Kuna-picsay.png",
-     "url6" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Qutubi%20Kuna-picsay.png",
-     "url7" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/Foyazi%20Kuna%20Marble-picsay.png",
-     "url8" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/kunahara.png",
-     
-     "videothumboppo" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/toppothumb.png",
-     "videothumbvivo1" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tvtumone.png",
-     "videothumbvivo2" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tvtumtwo.png",
-     "videothumbxiaomi1" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/txiaomi_m1.png",
-     "videothumbxiaomi2" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/txiaomi_m2.png",
-     "videothumbhuawei" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/thuatuto.png",
-     "videothumbsamsung" = "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/tsamtu.png",
-
-
-"title":"ဆားဗားပြင်ဆင်နေပါသည်။",
-"about":"ဆော့ဝဲဆားဗားအားပြင်ဆင်နေပါသဖြင့်ကျေးဇူးပြုပြီးသည်းခံပေးပါ။",
-"update":"com.rohingya.fontstyles"
-
+  "title": "ဆားဗားပြင်ဆင်နေပါသည်။",
+  "about": "ဆော့ဝဲဆားဗားအားပြင်ဆင်နေပါသဖြင့်ကျေးဇူးပြုပြီးသည်းခံပေးပါ။",
+  "update": "com.rohingya.fontstyles"
 }
